@@ -6,7 +6,7 @@ Homebrew tap for [`fish-session`](https://github.com/AtefR/fish-session).
 
 ```bash
 brew tap atefr/tap
-brew install fish-session
+brew install atefr/tap/fish-session
 ```
 
 ## Upgrade
