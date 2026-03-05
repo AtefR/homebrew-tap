@@ -14,7 +14,7 @@ class FishSession < Formula
   end
 
   test do
-    assert_predicate bin/"fish-session", :exist?
-    assert_predicate bin/"fish-sessiond", :exist?
+    assert_path_exists bin/"fish-session"
+    assert_path_exists bin/"fish-sessiond"
   end
 end

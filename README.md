@@ -5,7 +5,7 @@ Homebrew tap for [`fish-session`](https://github.com/AtefR/fish-session).
 ## Install
 
 ```bash
-brew tap AtefR/tap
+brew tap atefr/tap
 brew install fish-session
 ```
 
