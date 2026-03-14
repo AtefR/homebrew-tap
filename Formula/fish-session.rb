@@ -1,8 +1,8 @@
 class FishSession < Formula
   desc "UI-first session manager for fish shell"
   homepage "https://github.com/AtefR/fish-session"
-  url "https://github.com/AtefR/fish-session/archive/refs/tags/v0.1.7.tar.gz"
-  sha256 "d91e9d91e5d647d1e14db8a1eec038398067d5f6f947c945a0f60af0d7a87e21"
+  url "https://github.com/AtefR/fish-session/archive/refs/tags/v0.1.8.tar.gz"
+  sha256 "125e568844a6a49a21339ef5b9bc2804701e2adaaaea357f613bca6b0ef72e42"
 
   depends_on "rust" => :build
 
